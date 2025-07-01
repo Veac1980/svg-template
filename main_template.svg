@@ -506,7 +506,6 @@
     <tspan id="sellrub" fill="white" font-family="Arial Black">0,000</tspan>
     <tspan id="лей_3" dx="10" fill="#A5A7DD" font-weight="bold">лей</tspan>
 </text>
-</g>
 <defs>
 <clipPath id="clip0_0_1">
 <rect width="1639" height="1639" fill="white"/>
