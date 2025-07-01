@@ -489,7 +489,7 @@
 <path id="Vector_396" d="M564.075 1100.29L549.706 1085.92L544.894 1090.74L539.875 1085.92L521.037 1105.04C524.226 1101.94 528.504 1100.22 532.948 1100.26C537.392 1100.29 541.645 1102.07 544.787 1105.21C547.929 1108.36 549.709 1112.61 549.742 1117.05C549.775 1121.5 548.058 1125.77 544.962 1128.96L564.075 1110.12L559.262 1105.31L564.075 1100.29Z" fill="white"/>
 </g>
 </g>
-<text id="date" fill="#302B70" text-anchor="middle" xml:space="preserve" style="white-space: pre" font-family="Arial black" font-size="80" letter-spacing="0em"><tspan x="819.5" y="446.141">00.00.0000</tspan></text>
+<text id="date" fill="#302B70" text-anchor="middle" xml:space="preserve" style="font-family: 'Arial Black'; font-size: 80px; fill: black;" style="white-space: pre" font-family="Arial black" font-size="80" letter-spacing="0em"><tspan x="819.5" y="446.141">00.00.0000</tspan></text>
 <text id="kcrb" x="960" y="813.3" font-size="64" font-family="Arial">
 	<tspan id="cbr" fill="white" font-family="Arial Black">0,000</tspan>
 	<tspan id="рублей" dx="10" fill="#A5A7DD" font-weight="bold">рублей</tspan>
